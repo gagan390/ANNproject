@@ -23,4 +23,4 @@ The models were able to learn patterns from the data and produce correct outputs
 Gagan
 harshith shetty
 harshith
-fazz
+faaz
